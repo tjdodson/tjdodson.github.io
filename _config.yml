@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Trevor Dodson # add your name
-author-img: HS1.png # add your photo
+author-img: HeadShots/slack_profile.png # add your photo
 about-author: > # add description
   I am passionate about making data accessible to all through intelligent data architecture and engineering, but it is of little interest to do so unless I can also free the capacity of analysts and data scientists by automating the generation and implementation of business insights.
   My Goal: Become a Data Scientist who is capable of understanding and executing not just the data analytics and model development, but also the model deployment and integration with the business application.
