@@ -20,7 +20,7 @@ I am ashamed, but I move on. I'll just delete that line before updating the repo
 
 And, there is my password for anyone with access to the enterprise GitHub to see (or public repo if just using your personal GitHub). Adding sensitive information to code takes a second, and is just as easy to forget when committing, and GitHub repos remember EVERYTHING!!! Now, I can write another post on how to rectify this mistake when it occurs. I am currently in the process of going through and identifying repositories that are currently compromised or probably were at some point, but I want to make this issue a thing of the past, while still being as user friendly and unconfusing as possible. Everything I am about to show you can be handled in the command line, but that tends to be daunting.
 
-So, how can we fix this.
+So, how can we fix this?
 
 ===============================================================================
 
