@@ -232,7 +232,7 @@ plugins=(
   zsh-autosuggestions
 )
 ```
-To do this you have to edit `~/.zshrc` exactly how it says above, and then you have to follow the installation instructions for all the plugins that aren't auromatically installed with Oh My Zsh. Such as `colorls`, `zsh-syntax-highlighting`, and `zsh-autosuggestions`.
+To do this you have to edit `~/.zshrc` exactly how it says above, and then you have to follow the installation instructions for all the plugins that aren't automatically installed with Oh My Zsh. Such as `colorls`, `zsh-syntax-highlighting`, and `zsh-autosuggestions`.
 
 
 #### colorls
