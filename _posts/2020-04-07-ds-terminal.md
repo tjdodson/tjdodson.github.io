@@ -61,12 +61,8 @@ This is what the default bash profile in terminal looks like.
 
 ![Default Bash Terminal]({{site.baseurl}}/assets/img/DefaultBash.png){: .center-image }
 
-<details>
-<summary>
-On MacOS
-</summary>
-<p>
-
+<details><summary>On MacOS</summary>
+  <p>
 Just use brew:
 
 ```shell
@@ -74,24 +70,20 @@ brew install zsh
 ```
 
 or read the instructions [here](https://github.com/zsh-users/zsh/blob/master/INSTALL)
-
-</p>
+  </p>
 </details>
 
-<details>
-<summary>
-On a Raspberry Pi and Some Other Linux OS
-</summary>
-<p>
+<details><summary>On a Raspberry Pi and Some Other Linux OS</summary>
+  <p>
 
-```shell
-sudo apt-get update && sudo apt-get upgrade
-sudo apt-get install git zsh
-```
+  ```shell
+  sudo apt-get update && sudo apt-get upgrade
+  sudo apt-get install git zsh
+  ```
 
   I'm going to assume if you are using a Linux machine that doesn't manage software with apt-get you know what you are doing enough to not need me to write out a solution for you.
 
-</p>
+  </p>
 </details>
 
 At the end it should look like this when you launch Terminal.
