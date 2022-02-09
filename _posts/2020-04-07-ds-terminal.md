@@ -259,7 +259,9 @@ This means you cannot put `zsh-syntax-highlighting` and `zsh-autosuggestions` in
 
 If you want to take your command line habits to a next level, I'd recommend installing a general purpose command-line fuzzy finder. `fzf` is just that, __a general purpose command-line fuzzy finder__. This doesn’t sound very descriptive or attractive for those who are hearing about it for the first time, but it will enable you start effortlessly searching files like a pro. Learn less known features, like changing directory, searching through a command history, looking up the host name to SSH into, killing a process, having instant file’s preview with syntax highlighting, and more __[check out the demo here](https://github.com/junegunn/fzf#demo)_. [Here](https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/) is a good breakdown of the abilities featured in the demo.
 
-![“fzf” as a interactive unix filter](https://cdn-media-1.freecodecamp.org/images/EATLQiPcYRHl0IpEhyE0aups3iUThho5j7Vu){: .center-image }<p style="text-align: center;">*“fzf” as an interactive unix filter*</p>
+![“fzf” as a interactive unix filter](https://cdn-media-1.freecodecamp.org/images/EATLQiPcYRHl0IpEhyE0aups3iUThho5j7Vu){: .center-image }
+
+<p style="text-align: center;">*“fzf” as an interactive unix filter*</p>
 
 Essentially, it supercharges and wises up your command line experience. So, review the materials above and join the club it's great. Here is the [documentation](https://sourabhbajaj.com/mac-setup/iTerm/fzf.html) I found for installing via brew.
 
